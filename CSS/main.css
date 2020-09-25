@@ -1,0 +1,63 @@
+body{
+    background-color: aqua ;
+} 
+
+section
+{
+    background-color: aquamarine;
+    width: 48%;
+    height: 400px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+    border: 4px;
+    border-style: solid;
+    border-color: teal;
+
+}
+
+.image-lef{
+    padding-right: 2em;
+    border-right: 3px dashed teal;
+    padding-top: 1px;
+}
+
+.aleft{
+    float: left;
+}
+
+.aright{
+    float: right;
+}
+
+.img{
+    max-width: 250px;
+    margin-left: 1em;
+    margin-top: 2em;
+    border: 4px;
+    border-style: solid;
+    border-color: teal;
+}
+
+.label-text{
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    color: coral;
+}
+
+.input-text{
+    width: 200px;
+    height: 20px;
+    border: 2px solid teal;
+    border-radius: 5px;
+}
+
+span > h3{
+    color: coral;
+}
+
+.img2{
+    max-width: 100px;
+    margin-left: 5em;
+    margin-top: .5em;    
+}
